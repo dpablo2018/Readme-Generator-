@@ -1,6 +1,6 @@
 # Description 
 
-We will use the terminal in the client's computer that accepts user input. This will eventually allow the user to generate a readme
+We will use the terminal in the client's computer to accept user input. This will eventually allow the user to generate a readme with the user's input. The user input is a project title, description, installation, usage, tests, contributing, and everything else contained in a readme. The application will have a table of contents with links to go to the corresponding section. 
 
 ## User Story 
 
